@@ -1,0 +1,18 @@
+Alisson - Goleiro / Idade 30 / N° camisa 1 / Apelido Alison 
+Marquinhos - Zagueiro / Idade 28 / N° camisa 4 / Apelido Marquinhos
+Thiago Silva - Zagueiro / Idade 38 / N° camisa 2 / Apelido Thiago Silva
+Guilherme Arana - Lateral-Esquerdo / Idade 25 / N° camisa 8 / Apelido Arana
+Rodinei - Lateral-Direito / Idade 30 / N° camisa 7
+Lucas Paquetá - Meia Ofensivo / Idade 25 / N° camisa 18
+Casemiro - Meia Armador / Idade 30 / N° camisa 14
+Bruno Guimarães - Meia armador / Idade 24 / N° camisa 16
+Neymar - Ponta direita / Idade 30 / N° camisa 10
+Vinicius JR - Ponta esquerda / Idade 22 / N° camisa 11
+Pedro - Atacante / Idade 25 / N° camisa 9
+
+Tite - Tecnico
+Juninho Paulista - Coordenador
+Guilherme Passos - Fisiologista
+
+Ednaldo Rodrigues - Presidente CBF
+Julio Avellar - Diretor de competições
