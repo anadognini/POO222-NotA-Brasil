@@ -1,0 +1,5 @@
+Os conhecimentos que precisaremos aprender sobre e ir atrás de como implementar serão:
+
+Trabalhar com dados JSON como organizar os dados em JSON para se tornar mais simples na hora de implementar os metodos do trabalho, para não precisar ir bit por bit
+para buscar as informações em txt que teremos de jogadores, comissão e diretoria, após isso, teremos que estudar como então iremos buscar esses dados das quais nós organizamos em JSON
+Então claro além de saber como trabalhar esses dados e deixar eles organizados e buscar esses dados precisaremos saber como ler eles e salvar em JSON e enviar esse pacote em formato JSON
