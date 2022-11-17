@@ -1,0 +1,24 @@
+Number	Name					Age	Nickname	Height	Weight	BirthDate	Position	CurrentClub
+Número	Nome					Idade	Apelido		Altura	Peso	Data Nasc	Posição		Time
+1	Alisson Ramses Becker			30	Alisson		1,91	91	02/10/1992	GoalKeeper	Liverpool
+4	Marcos Aoás Corrêa			28	Marquinhos 	1,83	79	14/05/1994	Defender	PSG
+3	Thiago Emiliano da Silva		38	Thiago Silva	1,81	79	22/09/1984	Defender	Chelsea
+8	Guilherme Antonio Arana Lopes		25	Arana		1,76	68	14/04/1997	Left-Back	Atlético-mg
+7	Rodinei Marcelo de Almeida		30	Rodinei		1,75	78	29/02/1992	Right-Back	Flamengo
+16	Lucas Paquetá				25	Lucas Paquetá	1,8	72	27/08/1997	Midfielder	West Ham
+5	Carlos Henrique Casimiro		30	Casemiro	1,85	80	23/02/1992	Midfielder	Manchester United
+17	Bruno Guimarães Rodrigues Moura		24	Bruno Guimarães	1,82	74	16/11/1997	Midfielder	Newcastle United
+10	Neymar da Silva Santos Júnior		30	Neymar		1,75	68	05/02/1992	Forward		PSG
+11	Vinícius José Paixão de Oliveira Júnior	22	Vinicius JR	1,76	73	12/07/2000	Forward		Real Madrid
+9	Pedro Guilherme Abreu dos Santos	25	Pedro		1,85	78	20/06/1997	Forward		Flamengo
+								
+Name			Nickname	Role		Age					
+Nome			Apelido		Função		Idade					
+Adenor Leonardo Bachi	Tite		Technician	61					
+Oswaldo Giroldo Júnior	Juninho		Coordinator	49					
+Guilherme Passos	Guilherme	Physiologist	35					
+									
+Name			tel1	tel2	emailAccount					
+Nome			Telefone1	Telefone2	Email	Função				
+Ednaldo Rodrigues	+5521979674234	+5547996945237	ednaldo@cbf.com.br	Presidente CBF				
+Julio Avellar		+5521979674234	+5547996945237	julioavelar@cbf.com.br	Diretor de comunições				
