@@ -11,6 +11,7 @@ public class Jogador {
 	private LocalDate birthDate;
 	private String position;
 	private String currentClub;
+	private int vezesChamada = 0;
 	
 	public int getNumber() {
 		return number;
@@ -20,6 +21,14 @@ public class Jogador {
 		this.number = number;
 	}
 	
+	public int getVezesChamada() {
+		return vezesChamada;
+	}
+
+	public void setVezesChamada() {
+		this.vezesChamada = this.vezesChamada++;
+	}
+
 	public String getName() {
 		return name;
 	}

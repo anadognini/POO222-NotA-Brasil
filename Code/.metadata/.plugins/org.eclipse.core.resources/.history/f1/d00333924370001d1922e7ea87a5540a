@@ -1,0 +1,152 @@
+{
+"Seleção do Brasil": {
+   "Jogadores": [
+        {
+   	"Number": 1,
+   	"Name": "Alisson Ramses Becker",
+   	"Nickname": "Alisson",
+   	"Height": 1.92,
+   	"Weight": 85,
+   	"Birth date": "1992-10-02",
+   	"Position": "Goleiro",
+   	"Current club": "Liverpool"
+        },
+        {
+    	"Number": 3,
+   	"Name": "Thiago Emiliano da Silva",
+   	"Nickname": "Thiago Silva",
+   	"Height": 1.83,
+  	 "Weight": 77,
+   	"Birth date": "1984-09-22",
+   	"Position": "Zagueiro",
+   	"Current club": "Chelsea"
+        },
+        {
+    	"Number": 4,
+  	 "Name": "Marcos Aoás Corrêa",
+   	"Nickname": "Marquinhos",
+   	"Height": 1.83,
+   	"Weight": 73,
+   	"Birth date": "1994-05-14",
+   	"Position": "Zagueiro",
+   	"Current club": "Paris Saint-Germain"
+        },
+        {
+    	"Number": 5,
+   	"Name": "Carlos Henrique Casimiro",
+   	"Nickname": "Casemiro",
+   	"Height": 1.85,
+  	"Weight": 81,
+   	"Birth date": "1992-02-23",
+   	"Position": "Volante",
+   	"Current club": "Manchester United"
+        },
+        {
+    	"Number": 7,
+   	"Name": "Rodinei Marcelo de Almeida",
+   	"Nickname": "Rodinei",
+   	"Height": 1.75,
+   	"Weight": 78,
+   	"Birth date": "1992-02-29",
+   	"Position": "Lateral-direito",
+   	"Current club": "Flamengo"
+        },
+        {
+    	"Number": 8,
+   	"Name": "Guilherme Antonio Arana Lopes",
+   	"Nickname": "Arana",
+   	"Height": 1.76,
+   	"Weight": 68,
+   	"Birth date": "1997-14-04",
+   	"Position": "Lateral-esquerdo",
+   	"Current club": "Atlético Mineiro"
+        },
+        {
+    	"Number": 9,
+  	"Name": "Richarlison de Andrade",
+   	"Nickname": "Richarlison",
+   	"Height": 1.84,
+   	"Weight": 83,
+   	"Birth date": "1997-05-10",
+   	"Position": "Atacante",
+   	"Current club": "Tottenham"
+        },
+        {
+    	"Number": 10,
+   	"Name": "Neymar da Silva Santos Júnior",
+   	"Nickname": "Neymar",
+   	"Height": 1.75,
+   	"Weight": 68,
+   	"Birth date": "1992-02-05",
+   	"Position": "Atacante",
+   	"Current club": "Paris Saint-Germain"
+        },
+        {
+    	"Number": 11,
+   	"Name": "Vinícius José Paixão de Oliveira Júnior",
+   	"Nickname": "Vinícius Júnior",
+   	"Height": 1.72,
+   	"Weight": 63,
+   	"Birth date": "2000-02-24",
+   	"Position": "Ponta",
+   	"Current club": "Manchester United"
+        },
+        {
+    	"Number": 16,
+   	"Name": "Lucas Paquetá",
+   	"Nickname": "Paquetá",
+   	"Height": 1.80,
+   	"Weight": 72,
+   	"Birth date": "1997-08-27",
+   	"Position": "Meio-campista",
+   	"Current club": "West Ham"
+        },
+      {
+    	"Number": 17,
+   	"Name": "Bruno Guimarães Rodrigues Moura",
+   	"Nickname": "Bruno Guimarães",
+   	"Height": 1.82,
+   	"Weight": 74,
+   	"Birth date": "1997-11-16",
+   	"Position": "Volante",
+  	 "Current club": "Newcastle United"
+        }
+    ],
+  "Comissão Técnica": [
+      {
+          "Name": "Adenor Leonardo Bachi",
+          "Nickname": "Tite",
+          "Role": "Técnico",
+          "Age": 61
+      },
+      {
+          "Name": "Oswaldo Giroldo Júnior",
+          "Nickname": "Juninho",
+          "Role": "Coordenador",
+          "Age": 49
+      },
+      {
+          "Name": "Guilherme Passos",
+          "Nickname": "Guilherme",
+          "Role": "Fisioterapeuta",
+          "Age": 35
+      }
+     ],
+   "Dirigentes": [
+       {
+           "Name": "Ednaldo Rodrigues",
+           "Tel1": "+5521979674234",
+           "Tel2": "+5547996945237",
+           "E-mail": "ednaldo@cbf.com.br",
+           "Role": "Presidente CBF"
+       },
+       {
+            "Name": "Julio Avellar",
+           "Tel1": "+5521979674234",
+           "Tel2": "+5547996945237",
+           "E-mail": "ednaldo@cbf.com.br",
+           "Role": "Diretor de comunicações"
+       }
+     ]
+ }
+}

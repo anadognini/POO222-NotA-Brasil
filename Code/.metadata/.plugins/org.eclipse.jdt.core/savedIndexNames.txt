@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+C:\xampp\htdocs\TrabalhoFInalCopaPooJava\.metadata\.plugins\org.eclipse.jdt.core
+1345059468.index
+2643328903.index
+1873710723.index
+1156455587.index
+1865797976.index

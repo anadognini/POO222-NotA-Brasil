@@ -1,0 +1,9 @@
+package module_brasil;
+
+import java.util.ArrayList;
+
+import fifa.NationalTeamStats;
+
+public class Stats implements NationalTeamStats {
+	
+}

@@ -5,6 +5,7 @@ public class Dirigente {
 	private String tell1;
 	private String tell2;
 	private String email;
+	private String funcao;
 	
 	public String getName() {
 		return name;
@@ -12,6 +13,14 @@ public class Dirigente {
 	
 	public void setName(String name) {
 		this.name = name;
+	}
+	
+	public String getFuncao() {
+		return funcao;
+	}
+	
+	public void setFuncao(String funcao) {
+		this.funcao = funcao;
 	}
 	
 	public String getTell1() {
