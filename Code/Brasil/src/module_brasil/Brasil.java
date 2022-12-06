@@ -198,7 +198,7 @@ public class Brasil implements NationalTeamInfos, NationalTeamStats {
 		geraJogadores(4, "Marcos Aoás Corrêa", "Marquinhos", 1.83, 73, LocalDate.of(1994, 05, 14), "Zagueiro", "Paris Saint-Germain");
 		geraJogadores(5, "Carlos Henrique Casimiro", "Casemiro", 1.85, 81, LocalDate.of(1992, 02, 23), "Volante", "Manchester United");
 		geraJogadores(7, "Rodinei Marcelo de Almeida", "Rodinei", 1.75, 78, LocalDate.of(1992, 02, 29), "Lateral-direito", "Flamengo");
-		geraJogadores(8, "Guilherme Antonio Arana Lopes", "Arana", 1.76, 68, LocalDate.of(1997, 14, 04), "Lateral-esquerdo", "Atlético Mineiro");
+		geraJogadores(8, "Guilherme Antonio Arana Lopes", "Arana", 1.76, 68, LocalDate.of(1997, 10, 04), "Lateral-esquerdo", "Atlético Mineiro");
 		geraJogadores(9, "Richarlison de Andrade", "Richarlison", 1.84, 83, LocalDate.of(1997, 05, 10), "Atacante", "Tottenham");
 		geraJogadores(10, "Neymar da Silva Santos Júnior", "Neymar", 1.75, 68, LocalDate.of(1992, 02, 05), "Atacante", "Paris Saint-Germain");
 		geraJogadores(11, "Vinícius José Paixão de Oliveira Júnior", "Vinícius Júnior", 1.72, 63, LocalDate.of(2000, 2, 24), "Ponta", "Manchester United");
